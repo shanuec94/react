@@ -78,7 +78,7 @@ class App extends Component {
 
               <div className="App">
                 <ol>
-                <li>Create two commt components: UserInput and UserOutput</li>
+                <li>Create two commit components: UserInput and UserOutput</li>
                 <li>UserInput should hold an input element, UserOutput two paragraphs</li>
                 <li>Output multiple UserOutput components in the App Component (any paragraph texts of your choice)</li>
                 <li>Pass a username (of your choice) to UserOutput via props and display it there</li>
